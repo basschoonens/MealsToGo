@@ -47,6 +47,7 @@ module.exports = [
             "no-console": "warn",
             "react-native/no-inline-styles": "off",
             "react/react-in-jsx-scope": "off",
+            "react/prop-types": "off",
             "react-native/no-color-literals": "off",
             "quotes": [2, "double", { "avoidEscape": true }],
             "prettier/prettier": ["error", { singleQuote: false, endOfLine: "auto" }]
